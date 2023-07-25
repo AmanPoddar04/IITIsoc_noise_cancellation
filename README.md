@@ -6,4 +6,7 @@ To use the noise cancellation application follow the following procedure:
 3. run `pip install -r requirements.txt`
 4. run the app.py file using `streamlit run app.py`
 
+[Notebook for initial attempt](https://www.kaggle.com/code/abhinavgangil/ml3-project-noise-cancellation/edit/run/135580193)
+[Notebook for final attempt](https://www.kaggle.com/code/abhinavgangil/notebookb4ef0448a4)
+
  
