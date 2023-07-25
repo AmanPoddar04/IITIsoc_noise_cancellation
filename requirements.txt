@@ -1,0 +1,26 @@
+joblib
+tensorflow 
+streamlit 
+numpy 
+matplotlib.pyplot 
+os
+scipy.stats 
+pandas as pd
+IPython.display
+ipywidgets  
+PIL 
+scipy.io 
+scipy.signal 
+glob
+copy
+scipy.ndimage
+tqdm 
+ pydub 
+pydub.utils
+time
+io
+math
+re
+soundfile 
+librosa
+audio_recorder_streamlit 
