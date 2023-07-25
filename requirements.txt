@@ -1,0 +1,16 @@
+joblib
+tensorflow 
+streamlit 
+numpy 
+matplotlib 
+pandas
+IPython
+ipywidgets  
+Pillow 
+scipy
+tqdm 
+pydub 
+soundfile 
+librosa
+audio_recorder_streamlit 
+
