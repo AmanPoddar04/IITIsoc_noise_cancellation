@@ -224,7 +224,7 @@ def main():
 
                 my_bar.empty()
                 st.write('Given Audio File')
-                st.audio(audio_bytes.read(), format='wav')
+                st.audio(audio_file, format='wav')
 
                 # Read the audio file
                 audio_file = open('prediction_model2.wav', 'rb')
