@@ -9,4 +9,8 @@ To use the noise cancellation application follow the following procedure:
 [Notebook for initial attempt](https://www.kaggle.com/code/abhinavgangil/ml3-project-noise-cancellation/edit/run/135580193)\
 [Notebook for final attempt](https://www.kaggle.com/code/abhinavgangil/notebookb4ef0448a4)
 
- 
+ ## Team Details
+ 1. Abhinav Gangil
+ 2. Aman Poddar
+ 3. Aadish Jain
+ 4. Aditi Wekhande
